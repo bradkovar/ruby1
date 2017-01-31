@@ -3,9 +3,12 @@
 print "Enter your name: "
 name = gets.chomp
 puts "Hello " << name
-# prints "Hello #(name)"
-# print "Hello " + name
-# put name
+**or**
+prints "Hello #(name)"
+**or**
+print "Hello " + name
+**or**
+put name
 
 print "Enter the number of cups: "
 cups = gets.chomp
